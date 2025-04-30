@@ -6,7 +6,7 @@
     "email": "vaughn.gzenda at ",
     "phone": "",
     "url": "https://vgzenda.github.io",
-    "summary": "Ph.D. student intersted in geometric mechanics, robotics and machine learning",
+    "summary": "Ph.D. student interested in geometric mechanics, robotics and machine learning",
     "location": {
       "address": "",
       "postalCode": "",
@@ -22,51 +22,50 @@
       }
     ]
   },
-"work": [
-  {
-    "name": "Embodied Learning and Intelligence for eXploration and Innovative soft Robotics (ELIXIR) Lab, Toronto Metropolitan University",
-    "position": "Research Assistant",
-    "url": "",
-    "startDate": "2025-05-05",
-    "endDate": "-",
-    "summary": "Developing mathematical models for embodied cognition and locomotion for soft slender robotic systems.",
-    "highlights": [
-      "Cosserat Rods",
-      "Active Inference",
-      "Neural Generative Coding",
-      "Reinforcement Learning",
-      "Model Predictive Control"
-    ]
-  },
-  {
-    "name": "Autonomous Space and Mechatronics (ASROM) Lab, Carleton University",
-    "position": "Research Assistant",
-    "url": "",
-    "startDate": "2020-09-09",
-    "endDate": "2025-05-04",
-    "summary": "Developed mathematical models for small slip dynamics for wheeled robotic system and a recusive procedure to approximate and companste the slip dynamics for trajectory tracking",
-    "highlights": ["Geometric Mechanics","Nonholonomic Mechanics","Singular Perturbation Theory"]
-  },
-  {
-    "name": "Department of Mechanical and Aerospace Engineering, Carleton University",
-    "position": "Teaching Assistant",
-    "url": "",
-    "startDate": "2020-09-09",
-    "endDate": "2025-05-04",
-    "summary": "I developed Mathematics Review Materials for seven undergraduate courses in the Mechanical and Aerospace Engineering Department. I developed typeset notes on Linear Algebra, Calculus, Differential Equations, Complex Variables, etc., for other Teaching Assistants to administer the review and quizzes to be taken by the students",
-    "highlights": ["Mathematics Review"]
-  },
-   {
-    "name": "Model Development Team, Canadian Western Bank",
-    "position": "Risk Analyst Intern",
-    "url": "",
-    "startDate": "2018-11-09",
-    "endDate": "2020-07-04",
-    "summary": "Developed mathematical models for small slip dynamics for wheeled robotic system and a recusive procedure to approximate and companste the slip dynamics for trajectory tracking",
-    "highlights": ["Being Crucial Award"]
-  }
-  
-],
+  "work": [
+    {
+      "name": "Embodied Learning and Intelligence for eXploration and Innovative soft Robotics (ELIXIR) Lab, Toronto Metropolitan University",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2025-05-05",
+      "endDate": "",
+      "summary": "Developing mathematical models for embodied cognition and locomotion for soft slender robotic systems.",
+      "highlights": [
+        "Cosserat Rods",
+        "Active Inference",
+        "Neural Generative Coding",
+        "Reinforcement Learning",
+        "Model Predictive Control"
+      ]
+    },
+    {
+      "name": "Autonomous Space and Mechatronics (ASROM) Lab, Carleton University",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2020-09-09",
+      "endDate": "2025-05-04",
+      "summary": "Developed mathematical models for small slip dynamics for wheeled robotic system and a recursive procedure to approximate and compensate the slip dynamics for trajectory tracking",
+      "highlights": ["Geometric Mechanics", "Nonholonomic Mechanics", "Singular Perturbation Theory"]
+    },
+    {
+      "name": "Department of Mechanical and Aerospace Engineering, Carleton University",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2020-09-09",
+      "endDate": "2025-05-04",
+      "summary": "Developed Mathematics Review Materials for seven undergraduate courses in the Mechanical and Aerospace Engineering Department. Created typeset notes on Linear Algebra, Calculus, Differential Equations, Complex Variables, etc., and quizzes for students.",
+      "highlights": ["Mathematics Review"]
+    },
+    {
+      "name": "Model Development Team, Canadian Western Bank",
+      "position": "Risk Analyst Intern",
+      "url": "",
+      "startDate": "2018-11-09",
+      "endDate": "2020-07-04",
+      "summary": "Developed financial risk models. Received the Being Crucial Award for contributions.",
+      "highlights": ["Being Crucial Award"]
+    }
+  ],
   "education": [
     {
       "institution": "Toronto Metropolitan University, Toronto, Canada",
@@ -75,8 +74,8 @@
       "area": "Mechanical Industrial and Mechatronics Engineering",
       "studyType": "PhD",
       "startDate": "2025-05-05",
-      "endDate": "-",
-      "score": "10",
+      "endDate": "",
+      "score": "10"
     },
     {
       "institution": "Carleton University, Ottawa, Canada",
@@ -87,7 +86,15 @@
       "startDate": "2020-09-09",
       "endDate": "2025-05-04",
       "score": "10",
-      "courses": ["Model Predictive Control","Sensor Fusion","Information Theory","Theory of Elasticity","Linear Control Systems","Adaptive Control","Mobile Robotics"]
+      "courses": [
+        "Model Predictive Control",
+        "Sensor Fusion",
+        "Information Theory",
+        "Theory of Elasticity",
+        "Linear Control Systems",
+        "Adaptive Control",
+        "Mobile Robotics"
+      ]
     },
     {
       "institution": "University of Alberta, Edmonton, Canada",
@@ -100,7 +107,6 @@
       "score": "10",
       "courses": ["Mathematical Physics"]
     }
-    
   ],
   "awards": [
     {
@@ -133,28 +139,28 @@
       "publisher": "IEEE Transactions on Automatic Control",
       "releaseDate": "2025-06-01",
       "url": "https://ieeexplore.ieee.org/abstract/document/10772330",
-      "summary": "In this paper, we study a slow-fast realization of nonholonomic Hamiltonian control systems mediated by strong friction forces which is viewed as a singular perturbation of the nonholonomic system. We propose a systematic decomposition of the perturbed dynamics into slow and fast directions using the kinetic energy metric and the geometry of friction forces. The (slow) invariant manifold is identified by a set of invariance conditions resulting in partial differential equations that generally do not have an analytic solution. We approximate the invariant manifold along with the control inputs with power series and show that using this approximation the invariance conditions admit an inherent recursion. Accordingly, we develop a recursive procedure to perform dynamic input-output linearization of the approximated slow system. We consider the output trajectory tracking problem using a PD control law on the $N^{th}$ order approximation of the invariant manifold. Closed-loop stability analysis is performed on both the invariant manifold and the full phase space of the system. We prove that if the internal dynamics of the nonholonomic system is exponentially stable, then the perturbed system remains asymptotically stable. Moreover, we prove that the output error dynamics is uniformly bounded when applying the approximated control law, with bounds dependent on the control gains and strength of the friction force. Our approach is illustrated through a numerical case study on a differential robot."
+      "summary": "In this paper, we study a slow-fast realization of nonholonomic Hamiltonian control systems mediated by strong friction forces..."
     },
     {
       "name": "Wheeled mobile robots on rough terrains as stochastic nonholonomic systems",
       "publisher": "IEEE Conference on Systems Man and Cybernetics",
       "releaseDate": "2024-10-06",
       "url": "https://ieeexplore.ieee.org/abstract/document/10831501",
-      "summary": "In this paper, we investigate the motion of wheeled mobile robots on rough terrains modeled as noisy nonholonomic constraints. Such constraints are the natural extension of ideal nonholonomic constraints when the Stratonovich process is directly introduced in the constraint equations. The resulting stochastic model can capture motion on rough surfaces, random deformation in the wheel-ground contact, or stochastic loss/gain of traction. We study a differential robot with ideal noisy and affine noisy constraints, where each case models a certain aspect of motion on rough terrains. We then investigate their corresponding stochastic dynamics and the propagation of mean and covariance through Monte-Carlo simulations. The proposed model for roving rough terrains has the potential to serve as the stochastic model employed in model-based motion planning, pose estimation, and control of rover systems. The main challenge will be dealing with the nonlinear appearance of the noise and its feedback in the equations of motion."
+      "summary": "In this paper, we investigate the motion of wheeled mobile robots on rough terrains modeled as noisy nonholonomic constraints..."
     },
     {
       "name": "Affine connection approach to the realization of nonholonomic constraints by strong friction forces",
       "publisher": "Nonlinear Dynamics 112 (24), 21627-21644",
       "releaseDate": "2024-09-10",
       "url": "https://link.springer.com/article/10.1007/s11071-024-10174-0",
-      "summary": "In this paper, we study an affine connection approach to realizing nonholonomic mechanical systems mediated by viscous friction forces with large coefficients, viewed as a singular perturbation of the nonholonomic system. We show that the associated slow manifold is represented coordinate-free as the image of a section over the nonholonomic distribution. We propose a novel invariance condition based on covariant derivatives and prove that this condition is equivalent to the classical invariance condition based on time derivatives. Accordingly, we propose a novel recursive procedure to approximate the slow manifold based on the covariant derivatives of a formal power series expansion of the section. Using this recurrence relation, we derive, up to second order, approximations of the slip velocities residing in the slow manifold, as well as the associated approximated dynamics up to first order. Lastly, we illustrate our approach with a case study of a vertical rolling disk."
+      "summary": "In this paper, we study an affine connection approach to realizing nonholonomic mechanical systems mediated by viscous friction forces..."
     },
     {
       "name": "Integrability and chaos in figure skating",
       "publisher": "Journal of Nonlinear Science 30 (3), 831-850",
       "releaseDate": "2019-11-08",
       "url": "https://link.springer.com/article/10.1007/s00332-019-09593-w",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "summary": "This paper explores integrable and chaotic behaviors in figure skating using geometric mechanics..."
     }
   ],
   "skills": [
@@ -163,25 +169,20 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Geomtric Mechanics",
+        "Geometric Mechanics",
         "Nonholonomic Mechanics",
         "Nonlinear Control Theory",
         "Model Predictive Control",
         "Lie Groups",
         "Multi-Body Systems",
-        "Contiuum Mechanics"
+        "Continuum Mechanics"
       ]
     },
-     {
+    {
       "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python ",
-        "Matlab",
-        "Tensorflow",
-        "Pytorch"
-      ]
+      "keywords": ["Python", "Matlab", "Tensorflow", "Pytorch"]
     }
   ],
   "interests": [
@@ -204,14 +205,14 @@
         "Free Energy Principle",
         "Active Inference",
         "Information Theory",
-        "Reinforment Learning"
+        "Reinforcement Learning"
       ]
     },
     {
       "name": "Robotics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Emboddied Cognition",
+        "Embodied Cognition",
         "Mobile Robotics",
         "Soft Robotics",
         "Perception",
