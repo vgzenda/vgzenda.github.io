@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Toronto Metropolitan University</a>.
+subtitle: <a href='#'></a>.
 
 profile:
   align: right
