@@ -30,26 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
+        },{id: "post-cosserat-rod-theory-and-finite-element-simulation",
+        
+          title: "Cosserat Rod Theory and Finite Element Simulation",
+        
+        description: "Notes on geometric Cosserat rod dynamics and FEM discretization based on strain parameterizations.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/cosserat-rod-notes-transcribed/";
+          
+        },
+      },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
