@@ -1,0 +1,8 @@
+---
+---
+<div class="simple-bib">
+  {{ reference }}
+  {% if entry.doi %}
+    <span class="doi"> <a href="https://doi.org/{{ entry.doi }}">doi:{{ entry.doi }}</a></span>
+  {% endif %}
+</div>
