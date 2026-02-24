@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cosserat Rod Theory and Finite Element Simulation "
+title: "Notes on Finite Element Method for Cosserat Rod Dynamics"
 date: 2026-02-17 10:45:00 -0500
 description: "Notes on geometric Cosserat rod dynamics and FEM discretization based on strain parameterizations."
 tags: [cosserat, geometric-mechanics, finite-element, soft-robotics]
@@ -1090,12 +1090,12 @@ Two common discritization schemes for the parameters $(\beta,\gamma)$ are
 1. Average constant acceleration: $\gamma = 1/2$ and $\beta = 1/4$.
 
 {% include video.liquid
-  path="assets/video/rod_animation.mp4"
+  path="assets/video/FEM_rod_animation.mp4"
   class="img-fluid rounded z-depth-1"
   controls=true
   muted=true
   loop=true
-  caption="Simulation of Cosserat rod dynamics."
+  caption="Simulation of Cosserat rod dynamics with free-free boundary conditions."
 %}
 
 
