@@ -30,9 +30,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-cosserat-rod-theory-and-finite-element-simulation",
+        },{id: "post-notes-on-finite-difference-method-for-cosserat-rod-dynamics",
         
-          title: "Cosserat Rod Theory and Finite Element Simulation",
+          title: "Notes on Finite Difference Method for Cosserat Rod Dynamics",
+        
+        description: "Finite-difference discretization and shooting-method boundary value formulation for Cosserat rod dynamics.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/cosserat-rod-finite-difference-notes/";
+          
+        },
+      },{id: "post-notes-on-finite-element-method-for-cosserat-rod-dynamics",
+        
+          title: "Notes on Finite Element Method for Cosserat Rod Dynamics",
         
         description: "Notes on geometric Cosserat rod dynamics and FEM discretization based on strain parameterizations.",
         section: "Posts",
